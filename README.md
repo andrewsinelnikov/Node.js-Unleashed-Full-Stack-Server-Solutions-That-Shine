@@ -1,1 +1,1 @@
-# Node.js-in-Action-Full-Stack-Solutions-That-Shine
+# Node.js in Action: Full-Stack Solutions That Shine
