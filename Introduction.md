@@ -1,4 +1,4 @@
-##<p  style="text-align: right;">Node.js Unleashed: Full-Stack Server Solutions That Shine</p>
+## <p align="right">Node.js Unleashed: Full-Stack Server Solutions That Shine</p>
 
 ### Introduction: The Developer’s Story
 Imagine this: you’re a developer with an idea, and by the end of "Node.js Unleashed: Full-Stack Server Solutions That Shine", that idea’s a living, breathing app. This is your story of growth, told through code. Whether you’re just starting out, leveling up, or sharpening your full-stack server mastery, this journey through **Node.js**, **Express.js**, and **MongoDB** equips you with tools to build standout solutions.
