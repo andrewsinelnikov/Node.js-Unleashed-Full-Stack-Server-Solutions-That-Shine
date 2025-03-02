@@ -7,4 +7,4 @@ This isn’t your typical sit-and-watch course. Here, you **learn by doing**. Ea
 
 So, grab your keyboard, fire up your terminal, and let’s get coding—because the only thing worse than a bug is not knowing how to squash it. Every line of code writes your story as a full-stack server dev. Ready to shine? Let’s dive in!
 
-<p align="right">[Memory Boost](toc.md)</p>
+[<p align="right">Memory Boost</p>](toc.md)
