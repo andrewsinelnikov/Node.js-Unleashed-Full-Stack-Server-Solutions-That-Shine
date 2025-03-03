@@ -7,7 +7,11 @@ Whether you’re just starting out, leveling up, or sharpening your full-stack s
 
 Here’s the deal: you’ll **build your dream app**—a standout project tailored to your passions, powered by Node.js. Dream of running an online store? Build an E-Commerce storefront. Want to help people plan events? Create an event booking system. Love productivity? Develop a Task Blaster app to keep users on track. Into fitness? Track workouts with flair. Whatever your vibe, it starts as a blank slate. You’ll code it, debug it, refine it, and make it shine, step by step. This isn’t a sit-and-watch course—it’s **learn-by-doing**. Each chapter dives into a key concept with a **mini-project**, stacking your skills until you’ve got a portfolio piece that screams, “Hire me!” or fuels your startup vision. No fluff, just real-world chops.
 
-Your toolbox? Node.js: the server’s engine. Express.js: your API fast lane. MongoDB: where data hangs out. Master these, and you’re unstoppable. Along the way, you’ll squash bugs like a pro—because the only thing worse than a crash is presenting it to your boss.
+Your toolbox? **Node.js**: the server’s engine. **Express.js**: your API fast lane. **MongoDB**: where data hangs out. Master these, and you’re unstoppable. Along the way, you’ll squash bugs like a pro—because the only thing worse than a crash is presenting it to your boss.
+
+```Javascript
+      const reducer = combineReducers({});
+```
 
 So, grab your keyboard, fire up your terminal, and let’s get coding—because the only thing worse than a bug is not knowing how to squash it. Every line of code writes your story as a full-stack server dev. Ready to shine? Let’s dive in!
 
