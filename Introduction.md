@@ -10,7 +10,7 @@ Here’s the deal: you’ll **build your dream app**—a standout project tailor
 Your toolbox? **Node.js**: the server’s engine. **Express.js**: your API fast lane. **MongoDB**: where data hangs out. Master these, and you’re unstoppable. Along the way, you’ll squash bugs like a pro—because the only thing worse than a crash is presenting it to your boss.
 
 ```Javascript
-      const reducer = combineReducers({});
+      [Start] → [Node Basics] → [Express Magic] → [MongoDB Power] → [TaskBlaster LIVE]
 ```
 
 So, grab your keyboard, fire up your terminal, and let’s get coding—because the only thing worse than a bug is not knowing how to squash it. Every line of code writes your story as a full-stack server dev. Ready to shine? Let’s dive in!
