@@ -11,6 +11,15 @@ Your toolbox? **Node.js**: the server’s engine. **Express.js**: your API fast 
 
 ```Javascript
       [Start] → [Node Basics] → [Express Mastery] → [MongoDB Power] → [Your_Dream_App LIVE]
+Level up:
+
+      [Bootcamp] – Node basics. Unlock: Your first server!
+
+      [Express Trials] – API mastery. Unlock: Speedy routes!
+
+      [MongoDB Vault] – Data tamed. Unlock: Living storage!
+
+      [Final Boss] – Launch your dream app. Reward: You shine!
 ```
 
 So, grab your keyboard, fire up your terminal, and let’s get coding—because the only thing worse than a bug is not knowing how to squash it. Every line of code writes your story as a full-stack server dev. Ready to shine? Let’s dive in!
