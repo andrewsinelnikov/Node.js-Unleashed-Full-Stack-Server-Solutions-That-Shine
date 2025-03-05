@@ -1,5 +1,17 @@
 ## My Stylish Horizontal Menu
 
+<div style="text-align: center;">
+
+[Home](#home) | 
+[About](#about) | 
+[Services](#services) | 
+[Contact](#contact)
+
+</div>
+
+
+## My Stylish Horizontal Menu
+
 <div style="text-align: center; background-color: #f4f4f4; padding: 10px; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
   <a href="#home" style="text-decoration: none; color: #333; font-weight: bold; padding: 10px 20px; margin: 0 10px; border-radius: 4px; background-color: #e9ecef; display: inline-block;">Home</a>
   <a href="#about" style="text-decoration: none; color: #333; font-weight: bold; padding: 10px 20px; margin: 0 10px; border-radius: 4px; background-color: #e9ecef; display: inline-block;">About</a>
