@@ -20,7 +20,7 @@
 </div>
 
 
->      [Start] → [Node Basics] → [Express Mastery] → [MongoDB Power] → [Your_Dream_Project LIVE]
+>      [Start] → [Node Basics] [About](#about) → [Express Mastery] → [MongoDB Power] → [Your_Dream_Project LIVE]
 
 ### <p align="right">Node.js Unleashed: Full-Stack Server Solutions That Shine</p>
 
