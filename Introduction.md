@@ -1,36 +1,4 @@
-## My Stylish Horizontal Menu
-
-<div style="text-align: center;">
-
-[Home](#home) | 
-[About](#about) | 
-[Services](#services) | 
-[Contact](#contact)
-
-</div>
-
-
-## My Stylish Horizontal Menu
-
-<div style="text-align: center; background-color: #f4f4f4; padding: 10px; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
-  <a href="#home" style="text-decoration: none; color: #333; font-weight: bold; padding: 10px 20px; margin: 0 10px; border-radius: 4px; background-color: #e9ecef; display: inline-block;">Home</a>
-  <a href="#about" style="text-decoration: none; color: #333; font-weight: bold; padding: 10px 20px; margin: 0 10px; border-radius: 4px; background-color: #e9ecef; display: inline-block;">About</a>
-  <a href="#services" style="text-decoration: none; color: #333; font-weight: bold; padding: 10px 20px; margin: 0 10px; border-radius: 4px; background-color: #e9ecef; display: inline-block;">Services</a>
-  <a href="#contact" style="text-decoration: none; color: #333; font-weight: bold; padding: 10px 20px; margin: 0 10px; border-radius: 4px; background-color: #e9ecef; display: inline-block;">Contact</a>
-</div>
-
-<h3>My Simple Horizontal Menu</h3>
-
-<ul>
-  <li><a href="#home">Home</a></li>
-  <li><a href="#about">About</a></li>
-  <li><a href="#services">Services</a></li>
-  <li><a href="#contact">Contact</a></li>
-</ul>
-
-
-
->      [Start] → [Node Basics] [About](#about) → [Express Mastery] → [MongoDB Power] → [Your_Dream_Project LIVE]
+**[Start] → [Node Basics](#node) → [Express Mastery] → [MongoDB Power] → [Your_Dream_Project LIVE]**
 
 ### <p align="right">Node.js Unleashed: Full-Stack Server Solutions That Shine</p>
 
