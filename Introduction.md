@@ -19,6 +19,16 @@
   <a href="#contact" style="text-decoration: none; color: #333; font-weight: bold; padding: 10px 20px; margin: 0 10px; border-radius: 4px; background-color: #e9ecef; display: inline-block;">Contact</a>
 </div>
 
+<h3>My Simple Horizontal Menu</h3>
+
+<ul>
+  <li><a href="#home">Home</a></li>
+  <li><a href="#about">About</a></li>
+  <li><a href="#services">Services</a></li>
+  <li><a href="#contact">Contact</a></li>
+</ul>
+
+
 
 >      [Start] → [Node Basics] [About](#about) → [Express Mastery] → [MongoDB Power] → [Your_Dream_Project LIVE]
 
