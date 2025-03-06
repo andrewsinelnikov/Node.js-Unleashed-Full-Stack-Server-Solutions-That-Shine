@@ -27,8 +27,6 @@ Level up:
       [Final Boss] – Launch your dream app. Reward: You shine!
 ```
 
-So, grab your keyboard, fire up your terminal, and let’s get coding—because the only thing worse than a bug is not knowing how to squash it. Every line of code writes your story as a full-stack server dev. Ready to shine? Let’s dive in!
-
-Grab your keyboard—every line writes your story: startup glory, dream gig, server swagger. Ready? Let’s code!
+So, grab your keyboard, fire up your terminal, and let’s get coding—every line of code writes your story as a full-stack server dev. Ready to shine? Let’s dive in!
 
 [Memory Boost](toc.md)
