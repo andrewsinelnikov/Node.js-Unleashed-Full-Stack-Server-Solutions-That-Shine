@@ -1,6 +1,5 @@
-**[ Start ]** → [[Node Basics]](#node) → [[Express Mastery]](#express) → [[MongoDB Power]](#mongodb) → [[YourDreamProject LIVE]](#project)
-
 > **<p align="right">Node.js Unleashed: Full-Stack Server Solutions That Shine</p>**
+**[ Start ]** → [[Node Basics]](#node) → [[Express Mastery]](#express) → [[MongoDB Power]](#mongodb) → [[YourDreamProject LIVE]](#project)
 
 ## Introduction: The Developer’s Story
 Imagine this: you’re a developer with an idea, and by the end of "Node.js Unleashed: Full-Stack Server Solutions That Shine", that idea’s a living, breathing app. This is your story of growth, told through code. Startup dreamer coding your first app? Career-switcher chasing that dream job? Seasoned dev leveling up your server game? Pick your path—this journey scales to you. 
