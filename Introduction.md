@@ -11,7 +11,7 @@ Your toolbox? **Node.js**: the server’s engine. **Express.js**: your API fast 
 
 Want a taste? 
 
-* ***Quest #0***:
+***Quest #0***:
     1. Open your terminal now
        - **Windows** - press *Win + R*, type *cmd*, and press *Enter*;
        - **macOS** - press *Cmd + Space* to open Spotlight, type *Terminal* and press *Enter*;
@@ -26,10 +26,6 @@ Want a taste?
     4. Next stop: coding a server that says, “Hello, [Your Dream App]!” Let’s make it shine, step by step.
 
 You’re in.
-
-I. First item
-II. Second item
-III. Third item
 
 ```shel
 Level up:
