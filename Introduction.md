@@ -12,16 +12,16 @@ Your toolbox? **Node.js**: the server’s engine. **Express.js**: your API fast 
 Want a taste? 
 
 * ***Quest #0***:
-    1 Open your terminal now
+    * Open your terminal now
        - **Windows** - press *Win + R*, type *cmd*, and press *Enter*;
        - **macOS** - press *Cmd + Space* to open Spotlight, type *Terminal* and press *Enter*;
        - **Linux** - press *Ctrl + Alt + T*
-    2 Type node -v
+    * Type node -v
        ```shel
            node -v
        ```
        See that version number? That’s your ticket to the ride.
-    3 No Node? Install it now—your story starts here
+    * No Node? Install it now—your story starts [here](https://nodejs.org/en/download)
 
        Next stop: coding a server that says, “Hello, [Your Dream App]!” Let’s make it shine, step by step.
 
