@@ -23,11 +23,9 @@ Want a taste?
        See that version number? That’s your ticket to the ride.
     * No Node? Install it now—your story starts [here](https://nodejs.org/en/download)
 
-       Next stop: coding a server that says, “Hello, [Your Dream App]!” Let’s make it shine, step by step.
+    * Next stop: coding a server that says, “Hello, [Your Dream App]!” Let’s make it shine, step by step.
 
-Quest #0: Open your terminal, type node -v, and check your Node.js version. No Node? Install it now—your story starts here. Screenshot it, share it, and claim your first badge: Terminal Tinkerer. Ready? Fire up that keyboard, name your app (TaskBlaster? WorkWiz? YourCall?), and let’s code something epic. Chapter 1’s waiting—let’s dive in!
-
-See6 that? You’re in.
+You’re in.
 
 ```shel
 Level up:
@@ -41,6 +39,6 @@ Level up:
       [Final Boss] – Launch your dream app. Reward: You shine!
 ```
 
-So, grab your keyboard, fire up your terminal, and let’s get coding—every line of code writes your story as a full-stack server dev. Ready to shine? Let’s dive in!
+So, grab your keyboard, fire up your terminal, and let’s get coding—every line of code writes your story as a full-stack server dev. Ready?  Chapter 1’s waiting—let’s dive in!
 
 [Memory Boost](toc.md)
