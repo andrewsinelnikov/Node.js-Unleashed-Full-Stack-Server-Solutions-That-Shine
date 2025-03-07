@@ -12,21 +12,22 @@ Your toolbox? **Node.js**: the server’s engine. **Express.js**: your API fast 
 Want a taste? 
 
 * ***Quest #0***:
-    1. Open your terminal now
+    1 Open your terminal now
        - **Windows** - press *Win + R*, type *cmd*, and press *Enter*;
        - **macOS** - press *Cmd + Space* to open Spotlight, type *Terminal* and press *Enter*;
        - **Linux** - press *Ctrl + Alt + T*
-    2. Type node -v
+    2 Type node -v
        ```shel
            node -v
        ```
        See that version number? That’s your ticket to the ride.
+    3 No Node? Install it now—your story starts here
 
        Next stop: coding a server that says, “Hello, [Your Dream App]!” Let’s make it shine, step by step.
 
 Quest #0: Open your terminal, type node -v, and check your Node.js version. No Node? Install it now—your story starts here. Screenshot it, share it, and claim your first badge: Terminal Tinkerer. Ready? Fire up that keyboard, name your app (TaskBlaster? WorkWiz? YourCall?), and let’s code something epic. Chapter 1’s waiting—let’s dive in!
 
-See that? You’re in.
+See6 that? You’re in.
 
 ```shel
 Level up:
