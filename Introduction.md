@@ -10,7 +10,13 @@ Here’s the deal: you’ll build *your dream app*—a standout project tailored
 Your toolbox? **Node.js**: the server’s engine. **Express.js**: your API fast lane. **MongoDB**: where data hangs out. Master these, and you’re unstoppable. Along the way, you’ll squash bugs like a pro—because the only thing worse than a crash is presenting it to your boss.
 
 Want a taste? 
-***Quest #0***: Open your terminal now (**Windows** - press *Win + R*, type *cmd*, and press *Enter*; **macOS** - Press Cmd + Space to open Spotlight, type "Terminal," and press Enter*;) and type node -v. See that version number? That’s your ticket to the ride. Next stop: coding a server that says, “Hello, [Your Dream App]!” Let’s make it shine, step by step.
+
+* ***Quest #0***:
+    1. Open your terminal now (
+       _ **Windows** - press *Win + R*, type *cmd*, and press *Enter*;
+       _ **macOS** - press *Cmd + Space* to open Spotlight, type *Terminal* and press *Enter*;
+       _ **Linux** - press *Ctrl + Alt + T*
+  type node -v. See that version number? That’s your ticket to the ride. Next stop: coding a server that says, “Hello, [Your Dream App]!” Let’s make it shine, step by step.
 
 Quest #0: Open your terminal, type node -v, and check your Node.js version. No Node? Install it now—your story starts here. Screenshot it, share it, and claim your first badge: Terminal Tinkerer. Ready? Fire up that keyboard, name your app (TaskBlaster? WorkWiz? YourCall?), and let’s code something epic. Chapter 1’s waiting—let’s dive in!
 
