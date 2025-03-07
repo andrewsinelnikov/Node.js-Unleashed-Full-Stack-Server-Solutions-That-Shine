@@ -27,6 +27,10 @@ Want a taste?
 
 You’re in.
 
+I. First item
+II. Second item
+III. Third item
+
 ```shel
 Level up:
 
