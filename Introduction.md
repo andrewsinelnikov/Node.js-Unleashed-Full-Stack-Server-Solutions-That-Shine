@@ -1,4 +1,4 @@
-> **<p align="right">Node.js Unleashed: Full-Stack Server Solutions That Shine</p>**
+**<p align="right">Node.js Unleashed: Full-Stack Server Solutions That Shine</p>**
 
 **[ Start ]** → [[Node Basics]](#node) → [[Express Mastery]](#express) → [[MongoDB Power]](#mongodb) → [[YourDreamProject LIVE]](#project)
 
