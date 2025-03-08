@@ -24,7 +24,7 @@ Recall the key steps in your Node.js adventure. No stress—just fun. Let's go!
 
 5. **Ready, Set, Code!**<br />
    What’s the first thing you’ll do?<br />
-   <p align="right">(Hint: It’s something simple but powerful—start your Node.js server!)</p>
+   *(Hint: It’s something simple but powerful—start your Node.js server!)*
 
 [Back to Intro](Introduction.md)
 
