@@ -1,29 +1,31 @@
 **<p align="right">Node.js Unleashed: Full-Stack Server Solutions That Shine</p>**
 
-**[ Start ]** → [[Node Basics]](#node) → [[Express Mastery]](#express) → [[MongoDB Power]](#mongodb) → [[YourDreamProject LIVE]](#project)
+**[ Start ]** → [[Node Fundamentals]](#node) → [[Express Mastery]](#express) → [[MongoDB Power]](#mongodb) → [[YourDreamProject LIVE]](#project)
 
 ## Memory Boost: The Developer’s Story
 
 Recall the key steps in your Node.js adventure. No stress—just fun. Let's go!
 
 1. **Where are you headed?**<br />
-   *What’s the goal of the course?*
-   <p align="right">(Hint: You’ll be building a standout project powered by Node.js!)</p>
+   What’s the goal of the course?<br />
+   *(Hint: You’ll be building a standout project powered by Node.js!)
 
 2. **What's your first tool?**<br />
-   *Which technology kicks off your server journey?*
-   <p align="right">(Hint: It's the engine behind everything!)</p>
+   Which technology kicks off your server journey?<br />
+   *(Hint: It's the engine behind everything!)*
 
 3. **Mini-Projects, Big Dreams**<br />
-   *What can you build with Node.js?*
-   <p align="right">(Think e-commerce, event planning, task management, or fitness apps!)</p>
+   What can you build with Node.js?<br />
+   *(Hint: Think e-commerce, event planning, task management, or fitness apps!)*
 
 4. **Tech Stack Breakdown**<br />
-   *What are the three key technologies you’ll be using to build your app?*
-   <p align="right">(Hint: They make your server sing, your API fly, and your data feel at home!)</p>
+   What are the three key technologies you’ll be using to build your app?<br />
+   *(Hint: They make your server sing, your API fly, and your data feel at home!)*
 
 5. **Ready, Set, Code!**<br />
-   *What’s the first thing you’ll do?*
+   What’s the first thing you’ll do?<br />
    <p align="right">(Hint: It’s something simple but powerful—start your Node.js server!)</p>
 
-<div><span align="left">Back to Intro</span><span align="right">Back to Intro</span></div>
+[Back to Intro](Introduction.md)
+
+[Node Fundamentals](chapter-01/1-1.md)
