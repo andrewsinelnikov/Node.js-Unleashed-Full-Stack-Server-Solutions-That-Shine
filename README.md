@@ -3,4 +3,4 @@
 [Table of Contents](toc.md)
 
 * [Introduction](chapters/Introduction.md)
-* Chapter 1: Node.js Fundamentals
+* [Chapter 1: Node.js Fundamentals](chapters/chapter-1/1-1.md)
