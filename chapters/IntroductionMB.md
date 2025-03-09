@@ -8,7 +8,7 @@ Recall the key steps in your Node.js adventure. No stress—just fun. Let's go!
 
 1. **Where are you headed?**<br />
    What’s the goal of the course?<br />
-   *(Hint: You’ll be building a standout project powered by Node.js!)
+   *(Hint: You’ll be building a standout project powered by Node.js!)*
 
 2. **What's your first tool?**<br />
    Which technology kicks off your server journey?<br />
