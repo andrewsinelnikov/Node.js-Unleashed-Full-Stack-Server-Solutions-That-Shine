@@ -43,6 +43,6 @@ Level up:
       [Final Boss] – Launch your dream app. Reward: You shine!
 ```
 
-So, grab your keyboard, fire up your terminal, and let’s get coding—every line of code writes your story as a full-stack server dev. Ready?  Chapter 1’s waiting—let’s dive in!
+So, grab your keyboard, fire up your terminal, and let’s get coding—every line of code writes your story as a full-stack server dev. Ready?  Chapter 1’s waiting—[let’s dive in!](chapter-01/1-1.md)
 
 [Memory Boost](IntroductionMB.md)
