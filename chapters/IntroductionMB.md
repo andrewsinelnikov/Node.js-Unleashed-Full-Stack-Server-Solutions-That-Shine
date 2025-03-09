@@ -28,4 +28,4 @@ Recall the key steps in your Node.js adventure. No stress—just fun. Let's go!
 
 [Back to Intro](Introduction.md)
 
-[Node Fundamentals](chapter-01/1-1.md)
+[Continue to Node Fundamentals](chapter-01/1-1.md)
