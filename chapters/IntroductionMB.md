@@ -1,6 +1,6 @@
 **<p align="right">Node.js Unleashed: Full-Stack Server Solutions That Shine</p>**
 
-**[ Start ]** → [[Node Fundamentals]](#node) → [[Express Mastery]](#express) → [[MongoDB Power]](#mongodb) → [[YourDreamProject LIVE]](#project)
+**[ Start ]** → [[Node Fundamentals]](chapter-01/1-1.md) → [[Express Mastery]](#express) → [[MongoDB Power]](#mongodb) → [[YourDreamProject LIVE]](#project)
 
 ## Memory Boost: The Developer’s Story
 
