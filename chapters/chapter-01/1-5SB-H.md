@@ -2,20 +2,41 @@
 
 [[Start]](../Introduction.md) → **[ Node Fundamentals ]** → [[Express Mastery]](#express) → [[MongoDB Power]](#mongodb) → [[YourDreamProject LIVE]](#project)
 
-## Skill Builder
+## Hints for "Simple Personal Portfolio Server" Challenge
 
-**Challenge 1** || [Challenge 2](1-5SB-2.md) || [Challenge 3](1-5SB-3.md) || [Challenge 4](1-5SB-4.md)
+1. Use the http Module<br />
+   The `http` module is built into Node.js. Use `http.createServer()` to create your server.
+2. Respond with a Simple Message<br />
+   Use `res.end()` to send a response back to the user. Customize the message to say something like: "Welcome to [Your Name]'s Portfolio".
 
-Sharpen your skills with every task! Step by step, you’re building your Node.js expertise. Keep going—you’ve got this!
+    Logging Requests:
 
-#### Challenge 1: "Simple Personal Portfolio Server"
+        Use req.url to get the URL of the incoming request.
 
-**Goal:** Create a simple HTTP server that serves your personal portfolio or homepage.  
+        Use new Date().toISOString() to log the current time when a request is received.
 
-**What to do**:  
-- Build an HTTP server using the `http` module.  
-- When someone visits `http://localhost:3000`, the server responds with a personalized welcome message (e.g., "Welcome to [Your Name]'s Portfolio").  
-- Log each request to the console with a timestamp and the URL path the user is visiting (e.g., "Request received at [time] for [path]").  
-- Optionally, you can add different routes like `/about`, `/projects`, and `/contact` to simulate a basic multi-page portfolio.
+    Handle Different Routes:
+
+        Check req.url to determine which page the user is visiting (e.g., /about, /projects, etc.).
+
+        Use if or switch statements to differentiate between pages and send the correct message.
+
+    HTTP Status Codes:
+
+        For a successful request, use res.writeHead(200).
+
+        For an unknown route, use res.writeHead(404) to indicate "Page Not Found."
+
+    Keep It Simple:
+
+        Start by handling the homepage (/) and expand to other pages (/about, /projects, /contact) as you go.
+
+    Test It Locally:
+
+        Run the server with node server.js, then open your browser at http://localhost:3000 to see the result.
+
+        Test other routes like http://localhost:3000/about to see if they work as expected.
+
+
 
 [Back to Challenge 1](1-5SB.md)
