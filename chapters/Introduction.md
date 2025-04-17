@@ -1,6 +1,6 @@
 **<p align="right">Node.js Unleashed: Full-Stack Server Solutions That Shine</p>**
 
-**[ Start ]** → [[Node  Fundamentals]](chapter-01/1-1.md) → [[Express Mastery]](chapter-02/2-1.md) → [[MongoDB Power]](#mongodb) → [[YourDreamProject LIVE]](#project)
+**[ Start ]** → [[Node  Fundamentals]](chapter-01/1-1.md) → [[Express Mastery]](chapter-02/2-1.md) → [[MongoDB Power]](chapter-03/1-1.md) → [[Secure, Smart & Scalable]](chapter-04/1-1.md) → [[YourDreamProject LIVE]](chapter-05/1-1.md)
 
 ## Introduction: The Developer’s Story
 Imagine this: you’re a developer with an idea, and by the end of "Node.js Unleashed: Full-Stack Server Solutions That Shine", that idea’s a living, breathing app. This is your story of growth, told through code. Startup dreamer coding your first app? Career-switcher chasing that dream job? Seasoned dev leveling up your server stack? Pick your path—this journey scales to you. 
