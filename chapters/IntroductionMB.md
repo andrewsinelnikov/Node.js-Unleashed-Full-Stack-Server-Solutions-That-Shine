@@ -5,9 +5,6 @@
 ## Memory Boost: The Developer’s Story
 
 Recall the key steps in your Node.js adventure. No stress—just fun. Let's go!
-🌟 Dream App Challenge<br />
-   **How could you tweak your basic server to say "Hello, [Your Dream App]!" for any request?**<br />
-   *(Hint: Pop that message into `res.write()` and let your dream app shine!)*
 
 1. Where are you headed?<br />
    **What’s the goal of the course?**<br />
