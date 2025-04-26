@@ -5,25 +5,28 @@
 ## Memory Boost: The Developer’s Story
 
 Recall the key steps in your Node.js adventure. No stress—just fun. Let's go!
+🌟 Dream App Challenge<br />
+   **How could you tweak your basic server to say "Hello, [Your Dream App]!" for any request?**<br />
+   *(Hint: Pop that message into `res.write()` and let your dream app shine!)*
 
-1. **Where are you headed?**<br />
-   What’s the goal of the course?<br />
+1. Where are you headed?<br />
+   **What’s the goal of the course?**<br />
    *(Hint: You’ll be building a standout project powered by Node.js!)*
 
-2. **What's your first tool?**<br />
-   Which technology kicks off your server journey?<br />
+2. What's your first tool?<br />
+   **Which technology kicks off your server journey?**<br />
    *(Hint: It's the engine behind everything!)*
 
-3. **Mini-Projects, Big Dreams**<br />
-   What can you build with Node.js?<br />
+3. Mini-Projects, Big Dreams<br />
+   **What can you build with Node.js?**<br />
    *(Hint: Think e-commerce, event planning, task management, or fitness apps!)*
 
-4. **Tech Stack Breakdown**<br />
-   What are the three key technologies you’ll be using to build your app?<br />
+4. Tech Stack Breakdown<br />
+   **What are the three key technologies you’ll be using to build your app?**<br />
    *(Hint: They make your server sing, your API fly, and your data feel at home!)*
 
-5. **Ready, Set, Code!**<br />
-   What’s the first thing you’ll do?<br />
+5. Ready, Set, Code!<br />
+   **What’s the first thing you’ll do?**<br />
    *(Hint: It’s something simple but powerful—start your Node.js server!)*
 
 [Back to Intro](Introduction.md)
