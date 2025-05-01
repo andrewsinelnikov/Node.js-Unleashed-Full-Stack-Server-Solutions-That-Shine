@@ -10,3 +10,13 @@
     * Basic HTTP server
     * Mini-Projects
     * Portfolio Project
+* Chapter 2: Express Mastery
+    * Express.js: what, why, and how to set it up
+    * Routing, middleware, structure
+    * Request and response deep dive
+    * In-memory CRUD
+    * Logging, error handling basics
+    * Environment Configuration
+    * Mini-Projects
+    * Portfolio Project
+
